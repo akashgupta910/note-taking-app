@@ -1,4 +1,3 @@
-// let a = document.getElementsByClassName('column')
 document.addEventListener('DOMContentLoaded', AddNote(), Switch(), clearLocalStorage());
 
 // When add note button clicked -- 01
